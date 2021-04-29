@@ -23,6 +23,26 @@ const App = () => {
                 </Carousel>
             </Categories>
 
+            <Categories title="Tendencias">
+                <Carousel>
+                    <Item/>
+                    <Item/>
+                    <Item/>
+                    <Item/>
+                    <Item/>
+                </Carousel>
+            </Categories>
+
+            <Categories title="Originales de PlatziVideo">
+                <Carousel>
+                    <Item/>
+                    <Item/>
+                    <Item/>
+                    <Item/>
+                    <Item/>
+                </Carousel>
+            </Categories>
+
             <Footer />
         </>
     )
